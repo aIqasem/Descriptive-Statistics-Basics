@@ -49,7 +49,7 @@ class DescriptiveStatistics:
         return sum/len(numbers)
     
     def standard_deviation_p(numbers:list):
-        v = DescriptiveStatistics.variance(numbers)
+        v = DescriptiveStatistics.variance_p(numbers)
         return math.pow(v,0.5)
     
     def mode(numbers:list):
