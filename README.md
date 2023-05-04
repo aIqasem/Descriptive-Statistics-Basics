@@ -325,7 +325,7 @@ how spread out our data are from one another
 
 - Right skewed - Left skewed
     
-    ![Untitled](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5/Untitled.png)
+    ![Image](https://github.com/aIqasem/Descriptive-Statistics-Basics/blob/main/attachments/Untitled.pngs)
     
     - Right → Mode $<$ Median $<$ Mean “بتذيد وانت رايح يمين”
         - ex: time until light bulb dies
