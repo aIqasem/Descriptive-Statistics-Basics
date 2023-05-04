@@ -24,7 +24,9 @@
 > [Descriptive statistics VS Inferential statistics](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
 > 
 > ---
-> 
+>
+
+<br>
 
 ## **Types of data**
 
