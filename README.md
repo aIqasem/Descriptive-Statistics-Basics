@@ -1,29 +1,30 @@
 # Descriptive Statistics
 
-<aside>
-<img src="https://www.notion.so/icons/chart-pie_green.svg" alt="https://www.notion.so/icons/chart-pie_green.svg" width="40px" /> $Content$
-
-[**Types of data**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md) 
-
-- [***Quantitative***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-    - [***Contiguous***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-    - [***Discrete***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-- [***Categorical***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-    - [***Ordinal***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-    - [***Nominal***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-
-[**Analyzing quantitative data**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md) 
-
-- [**Measures Of Center**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-    - [Mean](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Median](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Mode](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-- [**Measure Of Spread**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-    - [Range](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Interquartile range](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Variance](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Standard deviation](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-- [Shape Of Distribution](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-- [Outliers](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-
-[Descriptive statistics VS Inferential statistics](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
-
-</aside>
+> ***Content***
+> 
+> 
+> [**Types of data**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md) 
+> 
+> - [***Quantitative***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+>     - [***Contiguous***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+>     - [***Discrete***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> - [***Categorical***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+>     - [***Ordinal***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+>     - [***Nominal***](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> 
+> [**Analyzing quantitative data**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md) 
+> 
+> - [**Measures Of Center**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+>     - [Mean](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Median](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Mode](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> - [**Measure Of Spread**](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+>     - [Range](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Interquartile range](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Variance](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md), [Standard deviation](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> - [Shape Of Distribution](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> - [Outliers](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> 
+> [Descriptive statistics VS Inferential statistics](Descriptive%20Statistics%2024ef0f41fe8a4d45b8d5918a78c843b5.md)
+> 
+> ---
+> 
 
 ## **Types of data**
 
