@@ -17,3 +17,10 @@ class op_list:
                 continue
             else:
                 return False
+    
+        # This also works:
+        #s = sorted(l)
+        #if s[0] == s[-1]:
+        #    return True
+        #else:
+        #    return False
